@@ -1,0 +1,5 @@
+# idea data
+.idea/
+
+# target folder of maven
+target/
